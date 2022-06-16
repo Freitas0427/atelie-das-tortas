@@ -1,0 +1,2 @@
+function mudarImagem ()
+    console.log

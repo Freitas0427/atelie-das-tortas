@@ -1,0 +1,50 @@
+.titulo-conhecer{
+    background-color: rgb(75, 61, 61);
+    color: white;
+    border-style: inset;
+    text-align: center;
+    
+}
+.css-hlista{
+    padding: 50px;
+    font-size: 18px;
+}
+.css-h01{
+    text-align:justify;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+.css-h02{
+    text-align:justify;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+.css-h03{
+    text-align:justify;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+.css-h04{
+    text-align:justify;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+.imagem-conf{
+    border-style: solid;
+    margin-left: 220px;
+}
+.parag{
+    color: rgb(114, 26, 26);
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-align: center;
+}
+.div-texto{
+    background-image: url(/fundo.jpg);
+    border-style: solid;
+}

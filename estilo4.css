@@ -1,0 +1,27 @@
+.profissao{
+    text-align: justify;
+    background-color: rgb(75, 61, 61);
+    color: white;
+    border-style: inset;
+    text-align: center;
+}
+.prof01{
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+.prof02{
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+.divconf{
+    background-image: url(/fundo.jpg);
+    border-style: solid;
+}
+.divimagens{
+    margin-left: 150px;
+    padding: 20px;
+}

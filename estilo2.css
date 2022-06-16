@@ -1,0 +1,46 @@
+.pagina-da-historia {
+    background-image: url(/fundo.jpg);
+    border-style: solid;
+    border-color: rgb(54, 34, 8);
+}
+.titulo-hist {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: outset;
+    background-color: rgb(75, 61, 61);
+    color: white;
+    }
+    .lista-hist {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(/fundo.jpg);
+    }
+    .subtitulo-hist {
+        text-align: center;
+        font-size: 23px;
+        color:rgb(109, 95, 95);
+    }
+    .li01 {
+        padding: 10px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 18px;
+    }
+    .li02 {
+        padding: 10px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 18px;
+    }
+    .li03 {
+        padding: 10px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 18px;
+    }
+    .li04 {
+        padding: 10px;  
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 18px; 
+    }
+    .imagem-hist {
+        margin: 60px;
+        border-style: solid;
+        border-color:rgb(109, 95, 95);
+    }

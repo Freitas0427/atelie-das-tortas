@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fale-conosco</title>
+    <link rel="stylesheet" type="text/css" href="estilo5.css"/>
+</head>
+<body>
+  <div class="faleconosco">  
+    <h3 class="fale01">FALE CONOSCO</h3>
+    <div class="interacao">
+    <input type="text" id="nomeid" placeholder="DIGITE AQUI" required="required" name="nome"/>
+    <label for="nome">NOME</label>
+    <input type="text" id="foneid" placeholder="DIGITE AQUI" required="required" fone="fone"/>
+    <label for="fone">TELEFONE</label>
+    <input type="text" id="emailid" placeholder="DIGITE AQUI" required="required" e-mail="e-mail"/>
+    <label for="e-mail">E-MAIL</label>
+    <textarea placeholder="DEIXE SUA MENSAGEM" class="mensagem01"></textarea>
+    <input type="submit" class="enviar" onclick="enviar()" value="enviar"/>
+    <script>
+        function enviar() {
+            window.alert("Obrigado. Sua mensagem foi enviada com sucesso" )
+        }
+    </script>
+    </div>
+  </div>
+</body>
+</html>

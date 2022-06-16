@@ -1,0 +1,425 @@
+.titulo {
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+border-style: outset;
+background-color: rgb(75, 61, 61);
+color: white;
+}
+.pagina {
+    background-image:url(/fundo.jpg);
+    border-style: solid;
+}
+.topicos {
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: outset;  
+    margin-left: 130px;
+    margin-right: 150px;  
+    color: white;
+    position: center;
+}
+.li1 {
+    color:transparent;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
+.li2 {
+    color:transparent;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+} 
+.li3 {
+    color:transparent;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
+.li4 {
+    color:transparent;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
+
+.tituloTime {
+    text-align:center;
+    background-color: rgb(75, 61, 61);
+    color: white;
+    border-style: inset;
+}
+.tituloCor {
+    text-align: center;
+    background-color: rgb(75, 61, 61);
+    color: white;
+    border-style: inset;
+}
+.tituloHeroi {
+    text-align: center;
+    background-color: rgb(75, 61, 61);
+    color: white;
+    border-style: inset;
+}
+.tituloNatal {
+    text-align: center;
+    background-color: rgb(75, 61, 61);
+    color: white;
+    border-style:inset;
+}
+.imagem-time {
+    display:grid;
+    grid-template-columns:auto auto auto auto auto;
+    color: transparent;
+    padding: 5px;
+}
+.img01 {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style:outset;
+}
+.img02 {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img03 {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img04 {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img05 {
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img06{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img07{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img08{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img09{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img010{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img011{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img012{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img013{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.img014{
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border-style: outset;
+}
+.amor-pft {
+    display:grid;
+    grid-template-columns:auto auto auto auto auto;
+    color: transparent;
+    padding: 5px;
+}
+.img0101 {
+    padding: 5px;
+     height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0102 {
+    padding: 5px;
+    height:auto;
+    width: auto;
+    border-style: outset;
+}
+.img0103 {
+    padding: 5px;
+    height: auto;
+   width: auto;
+    border-style: outset;
+}
+.img0104 {
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.img0105 {
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+} 
+.img0106{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}  
+.img0107{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0108{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0109{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0110{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0111{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0112{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0113{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.img0114{
+    padding: 5px;
+    height: auto;
+    width: auto;
+     border-style: outset;
+}
+.super-heroi{
+    display:grid;
+    grid-template-columns:auto auto auto auto auto;
+    color: transparent;
+    padding: 5px;
+}
+.super01{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super02{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super03{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super04{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super05{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super06{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super07{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super08{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super09{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super010{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super011{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super012{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super013{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.super014{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal{
+    display:grid;
+    grid-template-columns:auto auto auto auto auto;
+    color: transparent;
+    padding: 5px;
+}
+.natal01{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal02{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal03{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal04{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal05{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal06{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset; 
+}
+.natal07{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal08{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal09{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal010{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal011{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal012{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal013{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}
+.natal014{
+    padding: 5px;
+    height: auto;
+    width: auto;
+    border-style: outset;
+}

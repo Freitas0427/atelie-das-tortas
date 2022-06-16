@@ -1,0 +1,28 @@
+.faleconosco{
+    padding: 100px;
+    background-image: url(/fundo.jpg);
+    margin: auto;
+    height: 500px;
+    border-style: solid;
+}
+.interacao{
+    display: grid;
+    grid-template-columns: auto;
+    padding: 50px;
+    background-image:url(/012344.png);
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+.fale01{
+    background-image: url(/012344.png);
+    padding: 10px;
+    margin-right: 700px;
+    border-style:outset;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+.mensagem01{
+    text-align: start;
+    height: 100px;
+}
